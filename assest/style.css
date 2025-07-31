@@ -1,5 +1,5 @@
 body {
-background-color:url('bg-desktop.webp')
+background-color:url('bg-desktop.webp');
 font-family: Bai Jamjuree;
 }
 
@@ -25,11 +25,17 @@ background-color: tomato;
 text-align: left;
 padding: 0.5rem;
 position: absolute;
+margin: 0.6rem;
+border-radius: 0.6rem;
+font-size: 1vw;
+ }
 
+ footer {
+background-color: white;
+color: black;
 bottom:0;
-#container {
-display:flex ;
-}
+#
+
 
 
 }footer p{
